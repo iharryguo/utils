@@ -629,7 +629,7 @@
     <HITS>90</HITS>
     <MOVES>26</MOVES>
     <SUPPORT>10f/5t  support</SUPPORT>
-    <COST>1f/3t</COST>
+    <COST>10f/10t</COST>
     <JOB_TIME>156</JOB_TIME>
     <PREQ0>none</PREQ0>
     <PREQ1>none</PREQ1>
@@ -686,7 +686,7 @@
     <HITS>125</HITS>
     <MOVES>26</MOVES>
     <SUPPORT>10f/5t  support</SUPPORT>
-    <COST>1f/3t</COST>
+    <COST>15f/15t</COST>
     <JOB_TIME>156</JOB_TIME>
     <PREQ0>none</PREQ0>
     <PREQ1>none</PREQ1>
@@ -743,7 +743,7 @@
     <HITS>90</HITS>
     <MOVES>23</MOVES>
     <SUPPORT>10t/10g support</SUPPORT>
-    <COST>6t/6g</COST>
+    <COST>5t/5g</COST>
     <JOB_TIME>156</JOB_TIME>
     <PREQ0>none</PREQ0>
     <PREQ1>none</PREQ1>
@@ -800,7 +800,7 @@
     <HITS>125</HITS>
     <MOVES>23</MOVES>
     <SUPPORT>10t/10g support</SUPPORT>
-    <COST>3t/1g</COST>
+    <COST>5t/5g</COST>
     <JOB_TIME>156</JOB_TIME>
     <PREQ0>none</PREQ0>
     <PREQ1>none</PREQ1>
@@ -18404,7 +18404,7 @@
     <TYPENAME>Djezzar</TYPENAME>
   </UNIT>
   <UNIT>
-    <NAME>Advisor Fouch®¶</NAME>
+    <NAME>Advisor Fouch√©</NAME>
     <GRAPH>FOUCHE</GRAPH>
     <OBJ_MASK>FCP1</OBJ_MASK>
     <FLAGS>lmhoc</FLAGS>

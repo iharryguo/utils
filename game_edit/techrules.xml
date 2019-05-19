@@ -5,7 +5,7 @@
   <TECH>
     <NAME>Classical Age</NAME>
     <AGE>0</AGE>
-    <COST>45f</COST>
+    <COST>25f/25g</COST>
     <PREQ0>none</PREQ0>
     <PREQ1>none</PREQ1>
     <PREQ2>none</PREQ2>

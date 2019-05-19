@@ -513,7 +513,7 @@
     <HITS>90</HITS>
     <MOVES>26</MOVES>
     <SUPPORT>10f/5t  support</SUPPORT>
-    <COST>1f/3t</COST>
+    <COST>20f/20t</COST>
     <JOB_TIME>156</JOB_TIME>
     <PREQ0>none</PREQ0>
     <PREQ1>none</PREQ1>

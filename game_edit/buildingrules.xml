@@ -1030,7 +1030,7 @@
     <PREQ1>none</PREQ1>
     <PREQ2>none</PREQ2>
     <FROM>none</FROM>
-    <COST>30t/30g</COST>
+    <COST>25t/25g</COST>
     <SUPPORT0>timber</SUPPORT0>
     <SUPPORTVALUE0>30</SUPPORTVALUE0>
     <SUPPORT1>food</SUPPORT1>
@@ -1238,7 +1238,7 @@
     <PREQ1>none</PREQ1>
     <PREQ2>none</PREQ2>
     <FROM>none</FROM>
-    <COST>35t/32g</COST>
+    <COST>20t/20g</COST>
     <SUPPORT0>timber</SUPPORT0>
     <SUPPORTVALUE0>30</SUPPORTVALUE0>
     <SUPPORT1>food</SUPPORT1>

@@ -1049,7 +1049,7 @@
     <PREQ1>none</PREQ1>
     <PREQ2>none</PREQ2>
     <FROM>none</FROM>
-    <COST>40t/40g</COST>
+    <COST>20t/20g</COST>
     <SUPPORT0>timber</SUPPORT0>
     <SUPPORTVALUE0>30</SUPPORTVALUE0>
     <SUPPORT1>food</SUPPORT1>
