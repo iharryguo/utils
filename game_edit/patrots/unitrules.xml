@@ -743,7 +743,7 @@
     <HITS>90</HITS>
     <MOVES>23</MOVES>
     <SUPPORT>10t/10g support</SUPPORT>
-    <COST>3t/1g</COST>
+    <COST>6t/6g</COST>
     <JOB_TIME>156</JOB_TIME>
     <PREQ0>none</PREQ0>
     <PREQ1>none</PREQ1>
@@ -13621,18 +13621,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>hw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>39</ATTACK>
+    <ATTACK>60</ATTACK>
     <HITS>118</HITS>
     <MOVES>55</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>40g/40o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Industrial Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>none</FROM>
     <JUMP>Fighter</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-10rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -13678,18 +13678,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>hw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>39</ATTACK>
+    <ATTACK>60</ATTACK>
     <HITS>118</HITS>
     <MOVES>55</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>40g/40o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Industrial Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>none</FROM>
     <JUMP>Fighter</JUMP>
     <GRAFT>Biplane</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-10rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -13735,18 +13735,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>jw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>138</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>50g/50o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Biplane</FROM>
     <JUMP>Jet Fighter</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-12rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -13792,18 +13792,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>jw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>138</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>50g/50o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Biplane</FROM>
     <JUMP>Jet Fighter</JUMP>
     <GRAFT>Fighter</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-12rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -13849,18 +13849,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>jw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>138</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>50g/50o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Biplane</FROM>
     <JUMP>Jet Fighter</JUMP>
     <GRAFT>Fighter</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-12rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -13906,18 +13906,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>jw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>138</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>60g/60o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Biplane</FROM>
     <JUMP>Jet Fighter</JUMP>
     <GRAFT>Fighter</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-12rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -13963,18 +13963,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>jw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>80</ATTACK>
     <HITS>138</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>60g/60o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Biplane</FROM>
     <JUMP>Jet Fighter</JUMP>
     <GRAFT>Fighter</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-12rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14020,18 +14020,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>jw</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>80</ATTACK>
     <HITS>138</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>60g/60o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Biplane</FROM>
     <JUMP>Jet Fighter</JUMP>
     <GRAFT>Fighter</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-12rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14077,18 +14077,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>46</ATTACK>
+    <ATTACK>90</ATTACK>
     <HITS>140</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>70g/70o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Fighter</FROM>
     <JUMP>Advanced Fighter</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>2-10rng</RANGE>
+    <RANGE>2-15rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14134,18 +14134,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>46</ATTACK>
+    <ATTACK>90</ATTACK>
     <HITS>140</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>70g/70o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Fighter</FROM>
     <JUMP>Advanced Fighter</JUMP>
     <GRAFT>Jet Fighter</GRAFT>
-    <RANGE>2-10rng</RANGE>
+    <RANGE>2-15rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14191,18 +14191,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>46</ATTACK>
+    <ATTACK>90</ATTACK>
     <HITS>140</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>70g/70o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Fighter</FROM>
     <JUMP>Advanced Fighter</JUMP>
     <GRAFT>Jet Fighter</GRAFT>
-    <RANGE>2-10rng</RANGE>
+    <RANGE>2-15rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14248,18 +14248,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>46</ATTACK>
+    <ATTACK>90</ATTACK>
     <HITS>140</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>70g/70o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Fighter</FROM>
     <JUMP>Advanced Fighter</JUMP>
     <GRAFT>Jet Fighter</GRAFT>
-    <RANGE>2-10rng</RANGE>
+    <RANGE>2-15rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14305,18 +14305,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>46</ATTACK>
+    <ATTACK>90</ATTACK>
     <HITS>140</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>70g/70o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Fighter</FROM>
     <JUMP>Advanced Fighter</JUMP>
     <GRAFT>Jet Fighter</GRAFT>
-    <RANGE>2-10rng</RANGE>
+    <RANGE>2-15rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14362,18 +14362,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>46</ATTACK>
+    <ATTACK>90</ATTACK>
     <HITS>140</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>70g/70o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Fighter</FROM>
     <JUMP>Advanced Fighter</JUMP>
     <GRAFT>Jet Fighter</GRAFT>
-    <RANGE>2-10rng</RANGE>
+    <RANGE>2-15rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14419,18 +14419,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS/>
     <WHERE>Airbase</WHERE>
-    <ATTACK>50</ATTACK>
+    <ATTACK>100</ATTACK>
     <HITS>155</HITS>
     <MOVES>115</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>85g/85o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>Global Prosperity</PREQ1>
     <FROM>Jet Fighter</FROM>
     <JUMP>disable</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>2-12rng</RANGE>
+    <RANGE>2-17rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14476,18 +14476,18 @@
     <OBJ_MASK>63TG</OBJ_MASK>
     <FLAGS>jwy</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>138</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>50g/50o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Biplane</FROM>
     <JUMP>Eagle Fighter</JUMP>
     <GRAFT>Fighter</GRAFT>
-    <RANGE>2-7rng</RANGE>
+    <RANGE>2-10rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14533,18 +14533,18 @@
     <OBJ_MASK>X63T</OBJ_MASK>
     <FLAGS>jy</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>46</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>140</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>50g/50o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Hawk Fighter</FROM>
     <JUMP>disable</JUMP>
     <GRAFT>Jet Fighter</GRAFT>
-    <RANGE>2-10rng</RANGE>
+    <RANGE>2-12rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14590,18 +14590,18 @@
     <OBJ_MASK>BSX3T</OBJ_MASK>
     <FLAGS>h</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>43</ATTACK>
+    <ATTACK>75</ATTACK>
     <HITS>300</HITS>
     <MOVES>60</MOVES>
     <SUPPORT>5g/5o support</SUPPORT>
-    <COST>11g/11o</COST>
+    <COST>60g/60o</COST>
     <JOB_TIME>225</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>none</FROM>
     <JUMP>Strategic Bomber</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>1-3rng</RANGE>
+    <RANGE>1-5rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14647,18 +14647,18 @@
     <OBJ_MASK>BSX3T</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>52</ATTACK>
+    <ATTACK>80</ATTACK>
     <HITS>340</HITS>
     <MOVES>80</MOVES>
     <SUPPORT>5g/5o support</SUPPORT>
-    <COST>11g/11o</COST>
+    <COST>66g/66o</COST>
     <JOB_TIME>225</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Bomber</FROM>
     <JUMP>Stealth Bomber</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>1-3rng</RANGE>
+    <RANGE>1-5rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14704,18 +14704,18 @@
     <OBJ_MASK>BSX3T</OBJ_MASK>
     <FLAGS/>
     <WHERE>Airbase</WHERE>
-    <ATTACK>60</ATTACK>
+    <ATTACK>100</ATTACK>
     <HITS>380</HITS>
     <MOVES>100</MOVES>
     <SUPPORT>5g/5o support</SUPPORT>
-    <COST>11g/11o</COST>
+    <COST>70g/70o</COST>
     <JOB_TIME>225</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>Global Prosperity</PREQ1>
     <FROM>Strategic Bomber</FROM>
     <JUMP>disable</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>1-4rng</RANGE>
+    <RANGE>1-6rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14761,18 +14761,18 @@
     <OBJ_MASK>BSX3T</OBJ_MASK>
     <FLAGS>hy</FLAGS>
     <WHERE>Airbase</WHERE>
-    <ATTACK>45</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>300</HITS>
     <MOVES>60</MOVES>
     <SUPPORT>5g/5o support</SUPPORT>
-    <COST>11g/11o</COST>
+    <COST>55g/55o</COST>
     <JOB_TIME>225</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>none</FROM>
     <JUMP>Strategic Bomber</JUMP>
     <GRAFT>Bomber</GRAFT>
-    <RANGE>1-3rng</RANGE>
+    <RANGE>1-4rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14818,18 +14818,18 @@
     <OBJ_MASK>63TSXB</OBJ_MASK>
     <FLAGS>jwh</FLAGS>
     <WHERE>None</WHERE>
-    <ATTACK>43</ATTACK>
+    <ATTACK>70</ATTACK>
     <HITS>200</HITS>
     <MOVES>75</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>50g/50o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>none</FROM>
     <JUMP>Jet Fighter Bomber</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>1-7rng</RANGE>
+    <RANGE>1-10rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -14875,18 +14875,18 @@
     <OBJ_MASK>63TSXB</OBJ_MASK>
     <FLAGS>jw</FLAGS>
     <WHERE>None</WHERE>
-    <ATTACK>47</ATTACK>
+    <ATTACK>80</ATTACK>
     <HITS>240</HITS>
     <MOVES>90</MOVES>
     <SUPPORT>2o/2g support</SUPPORT>
-    <COST>9g/9o</COST>
+    <COST>55g/55o</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Fighter Bomber</FROM>
     <JUMP>disable</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>1-10rng</RANGE>
+    <RANGE>1-13rng</RANGE>
     <LOS>16</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -15103,11 +15103,11 @@
     <OBJ_MASK>SBX32</OBJ_MASK>
     <FLAGS>h</FLAGS>
     <WHERE>Missile Silo</WHERE>
-    <ATTACK>150</ATTACK>
+    <ATTACK>250</ATTACK>
     <HITS>2</HITS>
     <MOVES>115</MOVES>
     <SUPPORT>20o/20k support</SUPPORT>
-    <COST>10o/10k</COST>
+    <COST>30o/30k</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Modern Age</PREQ0>
     <PREQ1>Nation-in-Arms</PREQ1>
@@ -15160,11 +15160,11 @@
     <OBJ_MASK>SBX32</OBJ_MASK>
     <FLAGS>j</FLAGS>
     <WHERE>Missile Silo</WHERE>
-    <ATTACK>300</ATTACK>
+    <ATTACK>600</ATTACK>
     <HITS>2</HITS>
     <MOVES>115</MOVES>
     <SUPPORT>20o/20k support</SUPPORT>
-    <COST>10o/10k</COST>
+    <COST>30o/30k</COST>
     <JOB_TIME>170</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>Selective Service</PREQ1>
@@ -15388,11 +15388,11 @@
     <OBJ_MASK>NCL</OBJ_MASK>
     <FLAGS>h</FLAGS>
     <WHERE>None</WHERE>
-    <ATTACK>0</ATTACK>
+    <ATTACK>2</ATTACK>
     <HITS>172</HITS>
     <MOVES>22</MOVES>
     <SUPPORT>1g/1t support</SUPPORT>
-    <COST>3t/2g</COST>
+    <COST>15t/15g</COST>
     <JOB_TIME>94</JOB_TIME>
     <PREQ0>Classical Age</PREQ0>
     <PREQ1>none</PREQ1>
@@ -15405,7 +15405,7 @@
     <FLY_HIGH>0</FLY_HIGH>
     <FLY_LOW>0</FLY_LOW>
     <RECHARGE>55</RECHARGE>
-    <ARMOR>1</ARMOR>
+    <ARMOR>2</ARMOR>
     <DOMAIN>Sea</DOMAIN>
     <TO_HIT>0</TO_HIT>
     <ATTENUATE>0</ATTENUATE>
@@ -15445,11 +15445,11 @@
     <OBJ_MASK>NCL</OBJ_MASK>
     <FLAGS>hj</FLAGS>
     <WHERE>None</WHERE>
-    <ATTACK>0</ATTACK>
+    <ATTACK>3</ATTACK>
     <HITS>230</HITS>
     <MOVES>22</MOVES>
     <SUPPORT>1g/1t support</SUPPORT>
-    <COST>3g/3g</COST>
+    <COST>20g/20g</COST>
     <JOB_TIME>94</JOB_TIME>
     <PREQ0>Industrial Age</PREQ0>
     <PREQ1>none</PREQ1>
@@ -15462,7 +15462,7 @@
     <FLY_HIGH>0</FLY_HIGH>
     <FLY_LOW>0</FLY_LOW>
     <RECHARGE>55</RECHARGE>
-    <ARMOR>1</ARMOR>
+    <ARMOR>2</ARMOR>
     <DOMAIN>Sea</DOMAIN>
     <TO_HIT>0</TO_HIT>
     <ATTENUATE>0</ATTENUATE>
@@ -16528,18 +16528,18 @@
     <OBJ_MASK>XNZU</OBJ_MASK>
     <FLAGS>ujo</FLAGS>
     <WHERE>Dock</WHERE>
-    <ATTACK>96</ATTACK>
+    <ATTACK>150</ATTACK>
     <HITS>250</HITS>
     <MOVES>46</MOVES>
     <SUPPORT>2o support</SUPPORT>
-    <COST>6o/8g</COST>
+    <COST>60o/60g</COST>
     <JOB_TIME>150</JOB_TIME>
     <PREQ0>Industrial Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Heavy Fireship</FROM>
     <JUMP>Attack Submarine</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>0-9rng</RANGE>
+    <RANGE>0-15rng</RANGE>
     <LOS>11</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -16585,18 +16585,18 @@
     <OBJ_MASK>XNZUJ</OBJ_MASK>
     <FLAGS>ujo</FLAGS>
     <WHERE>Dock</WHERE>
-    <ATTACK>103</ATTACK>
+    <ATTACK>200</ATTACK>
     <HITS>290</HITS>
     <MOVES>50</MOVES>
     <SUPPORT>2o support</SUPPORT>
-    <COST>6o/8g</COST>
+    <COST>60o/80g</COST>
     <JOB_TIME>150</JOB_TIME>
     <PREQ0>Information Age</PREQ0>
     <PREQ1>none</PREQ1>
     <FROM>Submarine</FROM>
     <JUMP>disable</JUMP>
     <GRAFT>none</GRAFT>
-    <RANGE>0-12rng</RANGE>
+    <RANGE>0-18rng</RANGE>
     <LOS>14</LOS>
     <SCIENCE_LOS>0</SCIENCE_LOS>
     <FLY_HIGH>0</FLY_HIGH>
@@ -18404,7 +18404,7 @@
     <TYPENAME>Djezzar</TYPENAME>
   </UNIT>
   <UNIT>
-    <NAME>Advisor Fouch√©</NAME>
+    <NAME>Advisor Fouch®¶</NAME>
     <GRAPH>FOUCHE</GRAPH>
     <OBJ_MASK>FCP1</OBJ_MASK>
     <FLAGS>lmhoc</FLAGS>
